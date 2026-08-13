@@ -37,4 +37,4 @@ Responsável por criar este repositório e pelo merge dos Pull Requests do grupo
 Gosto de desenvolvimento web e estou aproveitando a disciplina para entender
 melhor como o Git se conecta com pipelines de CI/CD.
 
----
+--- ITALLO ANDRADE MARIANO
