@@ -25,3 +25,16 @@ Uma ou duas frases sobre você.
 ```
 
 ---
+
+### Luiz Antonio de Souza
+
+- **Curso:** Sistemas de Informação
+- **Período:** 8º período
+- **Área de interesse:** Desenvolvimento Web
+- **GitHub:** [@LuixzSouza](https://github.com/LuixzSouza)
+
+Responsável por criar este repositório e pelo merge dos Pull Requests do grupo.
+Gosto de desenvolvimento web e estou aproveitando a disciplina para entender
+melhor como o Git se conecta com pipelines de CI/CD.
+
+---
